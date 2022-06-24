@@ -47,7 +47,7 @@
     "cancelable-promise": "^2.4.1",
     "empty": "^0.10.1",
     "is-mergeable-object": "^1.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "performance-now": "^2.1.0",
     "trie-memoize": "^1.0.7",
     "use-memo-one": "^1.1.0"
